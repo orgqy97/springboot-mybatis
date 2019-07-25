@@ -16,5 +16,5 @@ public interface EmpDao {
      *获取员工列表
      * @return
      */
-    List<Map>  getListA();
+    List<Map>  getListB();
 }
