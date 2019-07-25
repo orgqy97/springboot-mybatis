@@ -13,8 +13,13 @@ import java.util.Map;
 public interface EmpDao {
 
     /**
-     *获取员工列表
+     *获取员工列表B
      * @return
      */
     List<Map>  getListB();
+    /**
+     *获取员工列表C
+     * @return
+     */
+    List<Map>  getListC();
 }
